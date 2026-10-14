@@ -1,6 +1,6 @@
 window.ROOMMATE_CONFIG = {
-  supabaseUrl: "https://YOUR-PROJECT.supabase.co",
-  supabaseAnonKey: "YOUR_SUPABASE_ANON_KEY",
-  sharedToken: "change-this-to-a-long-shared-passcode",
-  names: { A: "Roommate A", B: "Roommate B", C: "Roommate C", D: "Roommate D" }
+  supabaseUrl: "ttps://nycgfkggdenhrqbzhzqu.supabase.co",
+  supabaseAnonKey: "sb_publishable_5rmEk6GDnJoAfQ0vs3L8Cg_6gJMctkT",
+  sharedToken: "EsadeRally2026House",
+  names: { A: "Gabriel", B: "Beni", C: "Jonas", D: "Niki" }
 };
